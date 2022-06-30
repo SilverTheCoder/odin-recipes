@@ -24,3 +24,8 @@
     margin-right: auto;
     width: 50%;
 }
+
+.recipe-description {
+    font-family: "Helvectia", sans-serif;
+    font-size: 18px;
+}
